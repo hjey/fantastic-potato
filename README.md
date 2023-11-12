@@ -1,2 +1,2 @@
 # fantastic-potato
-node, express, react, mongo+++
+node.js, express.js, tailwind, liquidjs ...
